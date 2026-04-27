@@ -1,0 +1,13 @@
+{
+  "name": "js-hof-variant1",
+  "version": "1.0.0",
+  "description": "Data Transformation Library using HOF",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Андрій",
+  "license": "ISC"
+}
